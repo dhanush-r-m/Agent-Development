@@ -21,3 +21,4 @@ root_agent = Agent(
     #tools = [google_search]
     #tools = [get_current_time]
 )
+## Add tools to the agent
